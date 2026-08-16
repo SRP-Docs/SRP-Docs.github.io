@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://srp10-m.github.io/sitemap.xml
+Sitemap: https://SRP-Docs.github.io/sitemap.xml
