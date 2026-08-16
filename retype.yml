@@ -7,6 +7,5 @@ branding:
   title: Springfield RP
   label: Docs
 
-theme:
-  navigation:
-    mode: tree
+nav: 
+  mode: default
