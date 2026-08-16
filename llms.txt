@@ -13,3 +13,7 @@
 
 - [FAQs](https://SRP-Docs.github.io/information/faqs.md): Test
 - [Partnership FAQs](https://SRP-Docs.github.io/information/partnership-faqs.md): Test
+
+## Staff
+
+- [Training Guide](https://SRP-Docs.github.io/staff/training-guide.md)
