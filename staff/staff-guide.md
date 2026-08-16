@@ -29,59 +29,109 @@ We have the right to terminate you from your staff position if you break any rul
 ---
 ## Section 2
 ### Chain of Command
-Foundership 
+Foundership
+
 ————————————
+
 Founder
+
 Co-Founder
+
 Founder Assistant
+
 ————————————
+
 Directorship  
+
 ————————————
+
 Director
+
 Deputy Director 
+
 Assistant Director 
+
 ————————————
+
 Community Leadership 
+
 ————————————
+
 Community Overseer
+
 Head Of Staff
+
 ————————————
+
 Management 
+
 ————————————
+
 Head Management
+
 Senior Management
+
 Management 
+
 Junior Management
+
 ————————————
 
 Internal Affairs Team 
+
 ————————————
+
 Internal Affairs Director 
+
 Head Internal Affairs
+
 Senior Internal Affairs
+
 Junior Internal Affairs 
+
 Trial Internal Affairs
+
 ————————————
+
 Supervisor  
+
 ————————————
 Head Supervisor 
+
 Senior Supervisor 
+
 Supervisor 
+
 Junior Supervisor 
+
 ————————————
+
 Administration 
+
 ————————————
+
 Head Administrator
+
 Senior Administrator 
+
 Administrator 
+
 Junior Administrator 
+
 ————————————
+
 Moderation 
+
 ————————————
+
 Head Moderator 
+
 Senior Moderator 
+
 Moderator 
+
 Junior Moderator
+
 Trial Moderator 
 
 ---
