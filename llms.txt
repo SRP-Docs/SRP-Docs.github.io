@@ -7,7 +7,3 @@
 - [FAQs](https://SRP-Docs.github.io/faqs.md): First item
 - [InGame Regulations](https://SRP-Docs.github.io/ingame-regulations.md): First item
 - [Partnership Information](https://SRP-Docs.github.io/partnership-information.md): First item
-
-## Srp portal
-
-- [Rules & Privacy Notice](https://SRP-Docs.github.io/srp-portal/rules-privacy-notice.md): First item
