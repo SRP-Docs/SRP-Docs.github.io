@@ -3,3 +3,4 @@
 > This is a paragraph.
 
 - [Welcome!](https://docs.example.com/readme.md): Welcome!
+- [Test](https://docs.example.com/test.md): Test file
