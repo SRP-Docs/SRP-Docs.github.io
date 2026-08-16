@@ -7,6 +7,7 @@
 ## Guidelines
 
 - [Community Guidelines](https://SRP-Docs.github.io/guidelines/community-guidelines.md): Test
+- [In Game Guidelines](https://SRP-Docs.github.io/guidelines/in-game-guidelines.md): Test
 
 ## Information
 
