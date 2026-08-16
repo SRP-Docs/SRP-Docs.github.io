@@ -7,5 +7,5 @@ branding:
   title: Springfield RP
   label: Docs
 
-  actions: 
-    enabled: false
+actions:
+  enabled: false
