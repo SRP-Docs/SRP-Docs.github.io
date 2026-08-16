@@ -96,6 +96,7 @@ Trial Internal Affairs
 Supervisor  
 
 ————————————
+
 Head Supervisor 
 
 Senior Supervisor 
@@ -151,3 +152,32 @@ Command Permissions:
 - Ban - Only when necessary
 - Bring - Only when necessary
 - To - Answering mod calls/When necessary
+
+---
+Off Duty Commands:
+---
+
+Rank                 | Commands
+---                  | ---
+Ownership            | All commands
+Directorship         | All, except admin
+Community Leadership | All, except mod, admin & ban
+Management           | PM, refresh (Anyone with permission)
+Internal Affairs     | PM, refresh (Anyone with permission)
+Supervisor           | PM, self refresh
+Administrator        | PM, self refresh
+Moderator            | PM, self refresh
+
+## Section 4
+### Punishment Guide
+
+Verbal Warning       | Warning           | Kick                 | Ban
+---                  | ---               | ---                  | ---
+Unrealistic Avatar   | RDM               | Staff RDM            | LTAP
+Using WL Weapons     | VDM               | Staff VDM            | Exploiting
+Using WL Assets      | FRP               | Max Warnings Reached | ToS Breach
+                     | NLR               | Staff Disrespect     | Mass RDM
+                     | NITRP             | Staff Evasion        | Mass VDM
+                     | Cuff Rush         | Staff Impersonation  | Joining After Kick
+                     | Auto Jail         |                      | GTAD
+                     | Member Disrespect |                      |
