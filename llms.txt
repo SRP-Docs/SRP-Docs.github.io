@@ -4,6 +4,10 @@
 
 - [Welcome to Springfield Roleplay!](https://SRP-Docs.github.io/index.md): Welcome to Springfield Roleplay!
 
+## Information
+
+- [FAQs](https://SRP-Docs.github.io/information/faqs.md): Test
+
 ## SRP Portal
 
 - [Soon](https://SRP-Docs.github.io/srp-portal/soon.md): Soon
