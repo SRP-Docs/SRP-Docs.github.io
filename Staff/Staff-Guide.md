@@ -179,8 +179,8 @@ Verbal Warning       | Warning           | Kick                 | Ban
 Unrealistic Avatar   | RDM               | Staff RDM            | LTAP
 Using WL Weapons     | VDM               | Staff VDM            | Exploiting
 Using WL Assets      | FRP               | Max Warnings Reached | ToS Breach
-                     | NLR               | Staff Disrespect     | Mass RDM
-                     | NITRP             | Staff Evasion        | Mass VDM
-                     | Cuff Rush         | Staff Impersonation  | Joining After Kick
-                     | Auto Jail         |                      | GTAD
-                     | Member Disrespect |                      |
+-                    | NLR               | Staff Disrespect     | Mass RDM
+-                    | NITRP             | Staff Evasion        | Mass VDM
+-                    | Cuff Rush         | Staff Impersonation  | Joining After Kick
+-                    | Auto Jail         | -                    | GTAD
+-                    | Member Disrespect | -                    | -
