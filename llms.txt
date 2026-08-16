@@ -16,5 +16,4 @@
 
 ## Staff
 
-- [STS Guide](https://SRP-Docs.github.io/staff/sts-guide.md)
 - [Training Guide](https://SRP-Docs.github.io/staff/training-guide.md)
