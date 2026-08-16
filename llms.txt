@@ -3,3 +3,4 @@
 > These documents may be out of date.
 
 - [Welcome to Springfield Roleplay!](https://SRP-Docs.github.io/index.md): Welcome to Springfield Roleplay!
+- [Test](https://SRP-Docs.github.io/test/test.md): TEST
