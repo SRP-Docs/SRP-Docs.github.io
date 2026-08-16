@@ -7,6 +7,7 @@
 ## Information
 
 - [FAQs](https://SRP-Docs.github.io/information/faqs.md): Test
+- [Partnership FAQs](https://SRP-Docs.github.io/information/partnership-faqs.md): Test
 
 ## SRP Portal
 
