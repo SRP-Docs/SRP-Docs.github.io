@@ -7,3 +7,4 @@
 - [FAQs](https://docs.example.com/faqs.md): First item
 - [InGame Regulations](https://docs.example.com/ingame-regulations.md): First item
 - [Partnership Information](https://docs.example.com/partnership-information.md): First item
+- [Rules & Privacy Notice](https://docs.example.com/rules-privacy-notice.md): First item
