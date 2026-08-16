@@ -1,3 +1,3 @@
-# A protected page
+# A hidden page
 
-This page will be visible in the main navigation, but will require a password to view the page.
+This page will be hidden from the menu and search results.
