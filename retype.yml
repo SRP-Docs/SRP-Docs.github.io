@@ -6,3 +6,7 @@ url: SRP-Docs.github.io
 branding:
   title: Springfield RP
   label: Docs
+
+theme:
+  navigation:
+    mode: tree
