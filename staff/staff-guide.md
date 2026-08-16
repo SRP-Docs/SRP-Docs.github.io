@@ -25,3 +25,79 @@ As a staff member here at SRP, you are the role models for the entire server. Ev
   8. Leave of Absence (LOA) - In the event that you need time off from you staff position please do not hesitate to request a LOA, if you are caught abusing the LOA system you may be subject to punishment
 
 We have the right to terminate you from your staff position if you break any rules to a severe extent or otherwise. 
+
+---
+## Section 2
+### Chain of Command
+Foundership 
+————————————
+Founder
+Co-Founder
+Founder Assistant
+————————————
+Directorship  
+————————————
+Director
+Deputy Director 
+Assistant Director 
+————————————
+Community Leadership 
+————————————
+Community Overseer
+Head Of Staff
+————————————
+Management 
+————————————
+Head Management
+Senior Management
+Management 
+Junior Management
+————————————
+
+Internal Affairs Team 
+————————————
+Internal Affairs Director 
+Head Internal Affairs
+Senior Internal Affairs
+Junior Internal Affairs 
+Trial Internal Affairs
+————————————
+Supervisor  
+————————————
+Head Supervisor 
+Senior Supervisor 
+Supervisor 
+Junior Supervisor 
+————————————
+Administration 
+————————————
+Head Administrator
+Senior Administrator 
+Administrator 
+Junior Administrator 
+————————————
+Moderation 
+————————————
+Head Moderator 
+Senior Moderator 
+Moderator 
+Junior Moderator
+Trial Moderator 
+
+---
+## Section 3
+### Command Information
+---
+Command Permissions:
+---
+- Kill/Down - Blacklisted
+- Load - Anytime Needed
+- Refresh - Anytime Needed
+- Tocar - Anytime Needed
+- Toatv - Anytime Needed
+- Wanted - Removing people from teams.
+- Jail - User evading staff
+- Kick - Only when necessary
+- Ban - Only when necessary
+- Bring - Only when necessary
+- To - Answering mod calls/When necessary
