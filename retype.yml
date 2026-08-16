@@ -4,9 +4,9 @@ output: .retype
 url: srp10-m.github.io
 
 branding:
-  title: SRP
+  title: Springfield Roleplay
   label: Docs
 
-meta:
-  title: "Staff"
-  siteName: "Things"
+theme:
+  navigation:
+    mode: tree
