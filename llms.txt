@@ -1,6 +1,6 @@
 ﻿# Welcome to Springfield Roleplay!
 
-> These documents may be out of date.
+> This is all the offical server documentation and information for Springfield Roleplay. Please use the selections on the side to select the different documents.
 
 - [Welcome to Springfield Roleplay!](https://SRP-Docs.github.io/index.md): Welcome to Springfield Roleplay!
 
