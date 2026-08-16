@@ -5,5 +5,4 @@
 - [Welcome to Springfield Roleplay!](https://SRP-Docs.github.io/readme.md): Welcome to Springfield Roleplay!
 - [Community Regulations](https://SRP-Docs.github.io/community-regulations.md): First item
 - [FAQs](https://SRP-Docs.github.io/faqs.md): First item
-- [InGame Regulations](https://SRP-Docs.github.io/ingame-regulations.md): First item
 - [Partnership Information](https://SRP-Docs.github.io/partnership-information.md): First item
