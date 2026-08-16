@@ -141,9 +141,9 @@ Trial Moderator
 ---
 ## Section 3
 ### Command Information
----
-Command Permissions:
----
+
+#### Command Permissions:
+
 - Kill/Down - Blacklisted
 - Load - Anytime Needed
 - Refresh - Anytime Needed
@@ -156,9 +156,7 @@ Command Permissions:
 - Bring - Only when necessary
 - To - Answering mod calls/When necessary
 
----
-Off Duty Commands:
----
+#### Off Duty Commands:
 
 Rank                 | Commands
 ---                  | ---
@@ -171,6 +169,7 @@ Supervisor           | PM, self refresh
 Administrator        | PM, self refresh
 Moderator            | PM, self refresh
 
+---
 ## Section 4
 ### Punishment Guide
 
@@ -179,8 +178,14 @@ Verbal Warning       | Warning           | Kick                 | Ban
 Unrealistic Avatar   | RDM               | Staff RDM            | LTAP
 Using WL Weapons     | VDM               | Staff VDM            | Exploiting
 Using WL Assets      | FRP               | Max Warnings Reached | ToS Breach
--                    | NLR               | Staff Disrespect     | Mass RDM
--                    | NITRP             | Staff Evasion        | Mass VDM
--                    | Cuff Rush         | Staff Impersonation  | Joining After Kick
--                    | Auto Jail         | -                    | GTAD
--                    | Member Disrespect | -                    | -
+N/A                  | NLR               | Staff Disrespect     | Mass RDM
+N/A                  | NITRP             | Staff Evasion        | Mass VDM
+N/A                  | Cuff Rush         | Staff Impersonation  | Joining After Kick
+N/A                  | Auto Jail         | N/A                  | GTAD
+N/A                  | Member Disrespect | N/A                  | N/A
+
+---
+## Credits
+monkey169 - Founder
+TBA - Co-Founder
+TBA - Founder Assistant
