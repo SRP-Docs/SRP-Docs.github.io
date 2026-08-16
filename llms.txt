@@ -1,5 +1,5 @@
-﻿# SRP10-M.github.io
+﻿# Welcome!
 
-> Test!
+> This is a paragraph.
 
-- [SRP10-M.github.io](https://docs.example.com/readme.md): SRP10-M.github.io
+- [Welcome!](https://docs.example.com/readme.md): Welcome!
