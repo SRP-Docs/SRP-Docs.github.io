@@ -1,6 +1,9 @@
 ---
 visibility: hidden
 ---
+actions:
+  enabled: false
+---
 # Springfield Roleplay
 ---
 ## Staff Guide
