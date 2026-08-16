@@ -11,5 +11,5 @@
 
 ## Information
 
-- [FAQs](https://SRP-Docs.github.io/information/faqs.md): Test
+- [FAQs](https://SRP-Docs.github.io/information/faqs.md): Coming Soon...
 - [Partnership FAQs](https://SRP-Docs.github.io/information/partnership-faqs.md): Test
