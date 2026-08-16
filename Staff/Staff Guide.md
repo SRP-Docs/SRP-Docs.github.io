@@ -1,6 +1,7 @@
 ---
 visibility: hidden
 ---
+---
 actions:
   enabled: false
 ---
