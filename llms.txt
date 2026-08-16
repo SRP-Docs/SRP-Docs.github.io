@@ -6,7 +6,7 @@
 
 ## Guidelines
 
-- [Community Guidelines](https://SRP-Docs.github.io/guidelines/community-guidelines.md): Test
+- [Community Guidelines](https://SRP-Docs.github.io/guidelines/community-guidelines.md): Below you will find our Discord Community Guidelines. Please be sure to read them carefully to avoid punishments, if you have any questions please open a ticket via our Discord server.
 - [In Game Guidelines](https://SRP-Docs.github.io/guidelines/in-game-guidelines.md): Test
 
 ## Information
