@@ -4,6 +4,10 @@
 
 - [Welcome to Springfield Roleplay!](https://SRP-Docs.github.io/index.md): Welcome to Springfield Roleplay!
 
+## Guidelines
+
+- [Community Guidelines](https://SRP-Docs.github.io/guidelines/community-guidelines.md): Test
+
 ## Information
 
 - [FAQs](https://SRP-Docs.github.io/information/faqs.md): Test
