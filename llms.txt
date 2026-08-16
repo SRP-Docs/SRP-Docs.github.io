@@ -3,5 +3,4 @@
 > These documents may be out of date.
 
 - [Welcome to Springfield Roleplay!](https://SRP-Docs.github.io/readme.md): Welcome to Springfield Roleplay!
-- [FAQs](https://SRP-Docs.github.io/faqs.md): First item
 - [Partnership Information](https://SRP-Docs.github.io/partnership-information.md): First item
