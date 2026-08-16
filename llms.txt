@@ -3,4 +3,4 @@
 > These documents may be out of date.
 
 - [Welcome to Springfield Roleplay!](https://docs.example.com/readme.md): Welcome to Springfield Roleplay!
-- [Test](https://docs.example.com/test.md): Test file
+- [Partnership Information](https://docs.example.com/partnership-information.md): First item
