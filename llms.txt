@@ -17,4 +17,5 @@
 ## Staff
 
 - [IA Guide](https://SRP-Docs.github.io/staff/ia-guide.md)
+- [STS Guide](https://SRP-Docs.github.io/staff/sts-guide.md)
 - [Training Guide](https://SRP-Docs.github.io/staff/training-guide.md)
