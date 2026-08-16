@@ -5,4 +5,5 @@
 - [Welcome to Springfield Roleplay!](https://docs.example.com/readme.md): Welcome to Springfield Roleplay!
 - [Community Regulations](https://docs.example.com/community-regulations.md): First item
 - [FAQs](https://docs.example.com/faqs.md): First item
+- [InGame Regulations](https://docs.example.com/ingame-regulations.md): First item
 - [Partnership Information](https://docs.example.com/partnership-information.md): First item
