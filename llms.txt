@@ -1,6 +1,6 @@
-﻿# Welcome!
+﻿# Welcome to Springfield Roleplay!
 
-> This is a paragraph.
+> This is all the offical server documentation and information for Springfield Roleplay. Please use the selections on the side to select the different documents.
 
-- [Welcome!](https://docs.example.com/readme.md): Welcome!
+- [Welcome to Springfield Roleplay!](https://docs.example.com/readme.md): Welcome to Springfield Roleplay!
 - [Test](https://docs.example.com/test.md): Test file
