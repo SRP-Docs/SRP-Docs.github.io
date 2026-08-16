@@ -3,3 +3,4 @@
 > These documents may be out of date.
 
 - [Welcome to Springfield Roleplay!](https://SRP-Docs.github.io/index.md): Welcome to Springfield Roleplay!
+- [SRP Portal](https://SRP-Docs.github.io/srp-portal/index.md): expanded: true
