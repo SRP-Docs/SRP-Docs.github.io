@@ -1,3 +1,12 @@
-# Staff Guide
+# Springfield Roleplay
+---
+## Staff guide
+---
+### Table of Contents:
 
-Soon...
+Section 1 - Staff Information & Rules
+Section 2 - Chain of Command
+Section 3 - Command Information
+Section 4 - Punishment Guide
+
+---
