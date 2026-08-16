@@ -1,4 +1,4 @@
-# Welcome to Springfield Roleplay!
+# Welcome to Springfield Roleplay! 
 
 !!!
 These documents may be out of date.
