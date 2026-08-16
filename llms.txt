@@ -2,4 +2,4 @@
 
 > These documents may be out of date.
 
-- [Welcome to Springfield Roleplay!](https://SRP-Docs.github.io/readme.md): Welcome to Springfield Roleplay!
+- [Welcome to Springfield Roleplay!](https://SRP-Docs.github.io/welcome.md): Welcome to Springfield Roleplay!
