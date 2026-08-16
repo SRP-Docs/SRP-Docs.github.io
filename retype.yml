@@ -1,10 +1,10 @@
 input: .
 output: .retype
 
-url: srp10-m.github.io
+url: SRP-Docs.github.io
 
 branding:
-  title: Springfield Roleplay
+  title: Springfield RP
   label: Docs
 
 theme:
