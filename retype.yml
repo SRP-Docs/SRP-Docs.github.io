@@ -9,3 +9,6 @@ branding:
 
 nav: 
   mode: default
+
+actions:
+  enabled: false
