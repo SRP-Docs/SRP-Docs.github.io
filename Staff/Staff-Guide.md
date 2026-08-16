@@ -3,7 +3,7 @@ visibility: hidden
 ---
 # Springfield Roleplay
 ---
-## Staff guide
+## Staff Guide
 ---
 ### Table of Contents:
 
