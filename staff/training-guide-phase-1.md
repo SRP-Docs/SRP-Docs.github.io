@@ -1,3 +1,3 @@
 # Springfield Roleplay
 ---
-## Training Guide
+## Training Guide Phase 1
