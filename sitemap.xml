@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://docs.example.com/</loc>
+    <loc>https://srp10-m.github.io/</loc>
     <lastmod>2026-08-16T12:47:37Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/community-regulations/</loc>
+    <loc>https://srp10-m.github.io/staff/</loc>
+    <lastmod>2026-08-16T14:57:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://srp10-m.github.io/community-regulations/</loc>
     <lastmod>2026-08-16T12:50:04Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/faqs/</loc>
-    <lastmod>2026-08-16T12:49:04Z</lastmod>
+    <loc>https://srp10-m.github.io/faqs/</loc>
+    <lastmod>2026-08-16T14:50:47Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/ingame-regulations/</loc>
+    <loc>https://srp10-m.github.io/ingame-regulations/</loc>
     <lastmod>2026-08-16T12:50:25Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/partnership-information/</loc>
-    <lastmod>2026-08-16T12:48:39Z</lastmod>
+    <loc>https://srp10-m.github.io/srp-portal/rules-privacy-notice/</loc>
+    <lastmod>2026-08-16T14:19:35Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/rules-privacy-notice/</loc>
-    <lastmod>2026-08-16T12:51:00Z</lastmod>
+    <loc>https://srp10-m.github.io/partnership-information/</loc>
+    <lastmod>2026-08-16T12:48:39Z</lastmod>
   </url>
 </urlset>

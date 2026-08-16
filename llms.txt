@@ -2,9 +2,13 @@
 
 > These documents may be out of date.
 
-- [Welcome to Springfield Roleplay!](https://docs.example.com/readme.md): Welcome to Springfield Roleplay!
-- [Community Regulations](https://docs.example.com/community-regulations.md): First item
-- [FAQs](https://docs.example.com/faqs.md): First item
-- [InGame Regulations](https://docs.example.com/ingame-regulations.md): First item
-- [Partnership Information](https://docs.example.com/partnership-information.md): First item
-- [Rules & Privacy Notice](https://docs.example.com/rules-privacy-notice.md): First item
+- [Welcome to Springfield Roleplay!](https://srp10-m.github.io/readme.md): Welcome to Springfield Roleplay!
+- [A protected page](https://srp10-m.github.io/staff.md): This page will be visible in the main navigation, but will require a password to view the page.
+- [Community Regulations](https://srp10-m.github.io/community-regulations.md): First item
+- [FAQs](https://srp10-m.github.io/faqs.md): First item
+- [InGame Regulations](https://srp10-m.github.io/ingame-regulations.md): First item
+- [Partnership Information](https://srp10-m.github.io/partnership-information.md): First item
+
+## Srp portal
+
+- [Rules & Privacy Notice](https://srp10-m.github.io/srp-portal/rules-privacy-notice.md): First item
