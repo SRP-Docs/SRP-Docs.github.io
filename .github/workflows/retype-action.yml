@@ -1,4 +1,5 @@
 name: Publish Retype powered website to GitHub Pages
+
 on:
   workflow_dispatch:
   push:
@@ -8,6 +9,7 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
@@ -18,9 +20,8 @@ jobs:
 
       - uses: retypeapp/action-build@latest
         env:
-          RETYPE_PASSWORD: ${{ secrets.RETYPE_PASSWORD }}
-          RETYPE_KEY: ${{ secrets.RETYPE_KEY }} 
-          
+          RETYPE_KEY: ${{ secrets.RETYPE_KEY }}
+
       - uses: retypeapp/action-github-pages@latest
         with:
           update-branch: true
