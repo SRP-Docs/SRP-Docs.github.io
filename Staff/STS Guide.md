@@ -22,6 +22,7 @@ visibility: hidden
 >>> 1 Minute Before
 :m A STS will be held, in 1 minute, please ensure all roleplays are complete.
 
+
 ---
 ## Credits
 monkey169 - Founder
