@@ -16,11 +16,18 @@ visibility: hidden
 ---
 ### STS Messages
 #### Copy and Paste into ER:LC
->>> 5 Minutes Before
+>>> 5 Minutes Before - :prty 500
 :m A STS will be held in 5 minutes, start wrapping up all roleplays.
-:prty 500
+
 >>> 1 Minute Before
 :m A STS will be held, in 1 minute, please ensure all roleplays are complete.
+
+>>> 0 Minutes
+:m STS Starting, bring all incoming.
+
+>>> Bring Players
+:bring all (x2) OR :load others (x1) + :bring all (x1)
+>>>
 
 
 ---
