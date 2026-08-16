@@ -1,0 +1,5 @@
+﻿# SRP10-M.github.io
+
+> Test!
+
+- [SRP10-M.github.io](https://docs.example.com/readme.md): SRP10-M.github.io
