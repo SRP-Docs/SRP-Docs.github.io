@@ -13,7 +13,3 @@
 
 - [FAQs](https://SRP-Docs.github.io/information/faqs.md): Coming Soon...
 - [Partnership FAQs](https://SRP-Docs.github.io/information/partnership-faqs.md): Coming Soon...
-
-## Staff
-
-- [Training Guide Phase 2](https://SRP-Docs.github.io/staff/training-guide-phase-2.md): --
