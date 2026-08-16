@@ -1,7 +1,3 @@
----
-actions:
-  enabled: false
----
 # Springfield Roleplay
 ---
 ## Staff Guide
