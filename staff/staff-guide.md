@@ -22,5 +22,6 @@ As a staff member here at SRP, you are the role models for the entire server. Ev
   5. Staff Request - In  the event that a staff request happens while you are in-game not as staff you are required to join the staff team and go on-duty, not doing so will result in punishment .  LOA exempt.
   6. Drama - You are to not cause drama anywhere in SRP doing so will result in punishment.
   7. Swearing - If you are found swearing inside of SRP you will be terminated from your staff position and banned.
-  8. Leave of Absence (LOA) - In the event that you need time off from you staff position please do not hesitate to request a LOA, if you are caught abusing the LOA system you may be subject to punishment 
+  8. Leave of Absence (LOA) - In the event that you need time off from you staff position please do not hesitate to request a LOA, if you are caught abusing the LOA system you may be subject to punishment
+
 We have the right to terminate you from your staff position if you break any rules to a severe extent or otherwise. 
