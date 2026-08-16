@@ -1,3 +1,3 @@
-# A hidden page
+# Staff Guide
 
-This page will be hidden from the menu and search results.
+Soon...
