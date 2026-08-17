@@ -60,6 +60,7 @@
 
 >>> Auto Jail
 :m Auto Jail | After arresting a user you must transport them to the jail before jailing them. Failure to do so will result in a warning.
+>>>
 
 ---
 ## Credits
