@@ -11,5 +11,4 @@ nav:
   mode: default
 
 actions:
-  - print
-  - edit
+  enabled: true
