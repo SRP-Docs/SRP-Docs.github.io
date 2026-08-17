@@ -188,6 +188,6 @@ N/A                  | Member Disrespect | N/A                  | N/A
 ## Credits
 monkey169 - Founder
 
-TBA - Co-Founder
+zorbloxxy1 - Co-Founder
 
 TBA - Founder Assistant
