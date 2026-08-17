@@ -11,18 +11,8 @@ nav:
   mode: default
 
 actions:
-  enabled: false
   items:
     - text: Copy page
       action: copy-page-markdown
       icon: copy
-    - text: Copy link
-      action: copy-page-link
-      icon: link
-    - type: separator
-    - text: View as Markdown
-      action: view-page-markdown
-      icon: markdown
-    - text: Print page
-      action: print-page
-      icon: brand-printer
+  enabled: false
