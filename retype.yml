@@ -12,7 +12,3 @@ nav:
 
 actions:
   enabled: false
-  items:
-    - text: Copy page
-      action: copy-page-markdown
-      icon: copy
