@@ -63,7 +63,39 @@ visibility: hidden
 
 >>> Auto Jail
 :m Auto Jail | After arresting a user you must transport them to the jail before jailing them. Failure to do so will result in a warning.
+
+>>> Exotics 
+:m Exotics | You must be a VIP or server booster to use exotic vehicles. Without being VIP or a server booster you will be asked to changed the vehicle.
+
+>>> Disrespect
+:m Disrespect | You must remain respectful while playing SRP. Member disrespect will result in a warning, staff disrespect will result in a kick.
+
+>>> Safezones
+:m Safezones | All safezones include all spawn points. Shooting or killing in these areas will result in a warning. 
+
+>>> Unrealistic Avatars
+:m Unrealistic Avatars | You avatar must be realist while please SRP. You will be asked to change your avatar if it includes headless, large accessories or animal RP (Without permission.).
+
+>>> Staff Impersonation
+:m Staff Impersonation | Impersonating a staff member will result in a kick.
+
+>>> Mod Call Abuse
+:m Mod Call Abuse | Exploiting the !mod call system will result in a warning and/or kick.
+
+>>> Avatar Check
+:m We will now conduct an avatar check. Please remain on the STS line until told to move. If you are told to change you avatar please follow the instruction. 
+
+>>> Avatar Check Complete
+:m The avatar check is now complete. 
+
+>>> STS Complete
+:m The STS is now complete. Once loaded you can return to Springfield and continue your roleplays. Enjoy!
+
+>>> Load All
+:load all
 >>>
+
+Once all players have been loaded, please head to Melonly Moderator Panel > Actions > STS Log and complete the log, once complete resume normal staff operations. 
 
 ---
 ## Credits
