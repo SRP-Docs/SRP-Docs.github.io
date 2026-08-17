@@ -11,8 +11,4 @@ nav:
   mode: default
 
 actions:
-  items:
-    - text: Copy page
-      action: copy-page-markdown
-      icon: copy
   enabled: false
