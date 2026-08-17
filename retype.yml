@@ -11,4 +11,4 @@ nav:
   mode: default
 
 actions:
-  enabled: true
+  enabled: false
