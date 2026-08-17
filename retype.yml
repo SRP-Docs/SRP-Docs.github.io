@@ -11,7 +11,4 @@ nav:
   mode: default
 
 actions:
-  items:
-    - text: Copy link
-      action: copy-page-link
-      icon: link
+  enabled: false
