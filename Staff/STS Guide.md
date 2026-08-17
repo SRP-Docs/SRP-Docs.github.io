@@ -69,6 +69,6 @@ visibility: hidden
 ## Credits
 monkey169 - Founder
 
-TBA - Co-Founder
+zorbloxxy1 - Co-Founder
 
 TBA - Founder Assistant
