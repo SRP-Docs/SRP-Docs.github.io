@@ -1,4 +1,5 @@
 ---
+label: STS Guide
 visibility: protected
 ---
 # Springfield Roleplay
