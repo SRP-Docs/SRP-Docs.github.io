@@ -1,5 +1,5 @@
 ---
-visibility: hidden
+visibility: protected
 ---
 # Springfield Roleplay
 ---
