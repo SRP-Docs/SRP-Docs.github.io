@@ -1,4 +1,5 @@
 ---
+label: Training Guide P2
 visibility: protected
 ---
 # Springfield Roleplay
