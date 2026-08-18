@@ -1,5 +1,5 @@
 ---
-title: Staff Guide
+label: Staff Guide
 visibility: protected
 ---
 # Springfield Roleplay
